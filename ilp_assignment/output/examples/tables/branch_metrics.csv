@@ -1,0 +1,3 @@
+Config,IPC,BranchInsts,Mispred,MispredRate
+None,0.000392,4013,4013,1.0
+Static (ANT),0.000461,4013,812,0.20234238724146525

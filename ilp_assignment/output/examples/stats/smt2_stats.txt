@@ -1,0 +1,5 @@
+sim_ticks 41230540 # simulated ticks
+system.cpu.committedInsts 88204 # committed insts
+system.cpu.numCycles 412905540 # cycles
+system.cpu.ipc 2.197000 # ipc
+system.cpu.cpi 0.455166 # cpi (derived)

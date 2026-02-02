@@ -1,0 +1,5 @@
+system.cpu.ipc 0.000461 # ipc
+system.cpu.cpi 2169.197397 # cpi (derived)
+system.cpu.branchInsts 4013 # branch instructions
+system.cpu.branchMispred 812 # branch mispredictions
+system.cpu.branchMispredRate 0.202342 # derived rate

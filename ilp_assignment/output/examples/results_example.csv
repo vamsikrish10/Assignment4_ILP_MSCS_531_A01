@@ -1,0 +1,8 @@
+experiment,config,ipc,cpi,notes
+hello,MinorCPU,0.82,1.22,"in-order, no predictor tuning"
+branch,StaticBP,0.95,1.05,always-not-taken baseline
+branch,LTAGE,1.35,0.74,better prediction reduces squashes
+issue,width1,1.05,0.95,single-issue
+issue,width4,2.1,0.48,superscalar improves throughput
+smt,1 thread,1.9,0.53,"O3 width4, single prog"
+smt,2 threads,2.45,0.41,SMT hides stalls; contention visible
