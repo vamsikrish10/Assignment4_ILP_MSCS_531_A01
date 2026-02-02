@@ -12,5 +12,4 @@
 build/X86/gem5.opt configs/ilp_basic.py --binary <path_to_binary>
 ```
 
-## Notes
-- Replace example screenshots/metrics with your own measured outputs before final submission.
+
